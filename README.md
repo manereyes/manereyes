@@ -11,6 +11,7 @@
 manuel_reyes = {
   'Age': 27,
   'Country': 'México 🇲🇽',
+  'Languages': ['Spanish 🇪🇸', 'English 🇬🇧', 'Learning German 🇩🇪'],
   'Favorite_drinks': ['Flat white latte', 'Chai latte', 'Matcha latte'],
   'Games': ["Persona 5", "DarkSouls", "Elden Ring", "Assassin's Creed", "Halo", "Rainbow Six Siege", "League of Legends"],
   'Hobbies': ['Studying', 'Reading', 'Gym', 'Walking'],
