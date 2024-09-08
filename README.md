@@ -1,4 +1,4 @@
-![README cover](https://github.com/manereyes/manereyes/blob/main/GitHub_README.png?raw=true)
+![README cover](https://github.com/manereyes/manereyes/blob/main/GitHub_Readme.png?raw=true)
 
 - 👋 Hi, I’m @manereyes
 - 👀 I’m interested in ...
