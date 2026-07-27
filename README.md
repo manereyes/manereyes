@@ -24,19 +24,6 @@ manuel_reyes = {
   days_without_coffee: 0
 }
 ```
-<h3>Language and Tools. </h3>
-<p align=center>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="40" height="40"/>
-  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VSCode" width="40" height="40"/>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" width="40" height="40"/>
-  <a href="" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="Bash" width="40" height="40"/>
-  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" width="40" height="40"/>
-  <a href="https://www.kali.org/" target="_blank"> <img src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" alt="Kali Linux" width="40" height="40"/>
-  <a href="https://ubuntu.com/download/desktop" target="_blank"> <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="40" height="40"/>
-  <a href="https://www.langchain.com/" target="_blank"> <img src="https://api.nuget.org/v3-flatcontainer/langchain/0.15.0/icon" alt="LangChain" width="50" height="50"/>
-  <a href="https://streamlit.io/" target="_blank"> <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="Streamlit" width="50" height="40"/>
-
-</p>
 
 <!---
 manereyes/manereyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
