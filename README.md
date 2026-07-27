@@ -3,7 +3,7 @@
 
 <h1 align=center>Welcome to my GitHub! ☕️</h1>
 <p align=center>
-  <a href="https://medium.com/@Architekt.exe" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://www.linkedin.com/in/arkreyes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.youtube.com/@aarkreyes/playlists" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+  <a href="https://medium.com/@arkreyes" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><a href="https://www.linkedin.com/in/arkreyes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://www.youtube.com/@aarkreyes/playlists" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 </p>
 <h3>More about me!</h3>
 
