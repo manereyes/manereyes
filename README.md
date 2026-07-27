@@ -8,12 +8,12 @@
 <h3>More about me!</h3>
 
 ```python
-manuel_reyes = {
-  'Age': 27,
+jose_reyes = {
+  'Age': 29,
   'Country': 'México 🇲🇽',
-  'Languages': ['Spanish 🇪🇸', 'English 🇬🇧', 'Learning German 🇩🇪'],
-  'Favorite_drinks': ['Flat white latte', 'Chai latte', 'Matcha latte'],
-  'Games': ["Persona 5", "DarkSouls", "Elden Ring", "Assassin's Creed", "Halo", "Rainbow Six Siege", "League of Legends"],
+  'Languages': ['Spanish 🇪🇸', 'English 🇬🇧', 'Learning French 🇫🇷'],
+  'Favorite_drinks': ['Flat White', 'Turkish Coffee', 'Matcha latte'],
+  'Games': ["Persona 5", "DarkSouls", "Elden Ring", "Assassin's Creed", "Halo", "Honkai Star Rail", "League of Legends"],
   'Hobbies': ['Studying', 'Reading', 'Gym', 'Walking'],
   'Music':
     {
